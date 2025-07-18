@@ -1,0 +1,242 @@
+body{
+    background-color: rgb(240, 240, 240);
+}
+.header{
+    background-color: orangered;
+    height:110px;
+    top: 0%;
+    width: 100%;
+}
+.logo{
+    margin-left: 30px;
+}
+.heading{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.input{
+    width: 600px;
+    border: none;
+    height: 42px;
+    margin-left: 70px;
+}
+.input::placeholder{
+    padding: 20px;
+}
+.search{
+    padding: 11px;
+    background-color: rgb(255, 233, 233);
+    color: orangered;
+    cursor: pointer;
+}
+.cart{
+    color: white;
+    padding: 10px;
+    font-size: 22px;
+    cursor: pointer;
+}
+.card{
+    border: 1px solid rgb(165, 163, 163);
+    height: 410px;
+    width: 2010px;
+    padding: 5px;
+}
+.card:hover{
+    cursor: pointer;
+    box-shadow: 3px 3px 3px 3px gray;
+}
+.sales-main{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.sale{
+    font-size: 22px;
+    color: orangered;
+    text-decoration: none;
+}
+.sales1{
+    color: orangered;
+    text-decoration: none;
+}
+.shop{
+    border: 1px solid orangered;
+    padding: 5px;
+}
+.main0{
+    margin: 25px;
+    padding: 10px;
+    background-color: white;
+    width: auto;
+}
+.card-text{
+    color: orangered;
+}
+.main1{
+    justify-content: space-around;
+    display: flex;
+}
+.card1{
+    border: 1px solid lightgrey;
+    height: 170px;
+    width: 133px;
+    background-color: white;
+}
+.card1:hover{
+    cursor: pointer;
+    box-shadow: 4px 4px 4px 4px gray;
+}
+.slide{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: rgb(240, 240, 240);
+}
+.main2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.card2{
+    height: 130px;
+    width: 150px;
+    text-align: center;
+    border: 1px solid grey;
+}
+.cmain{
+    background-color: rgb (225, 225, 225);
+}
+.Categories{
+    display: flex;
+    justify-content: space-around;
+}
+.cat{
+    padding: 20px;
+}
+.cimg{
+    margin-left: 15px;
+    padding: 12px;
+    width: 80%;
+    height: 80%;
+}
+.card-title1{
+    text-align: center;
+}
+.card2{
+    height: 170px;
+    width: 182px;
+    justify-content: space-around;
+    box-shadow: 4px 4px 4px lightgray;
+}
+.jmain{
+    display: flex;
+    justify-content: space-around;
+}
+.h{
+    background-color: rgb(255, 255, 255);
+    height: 30px;
+    color: rgb(64, 64, 64);
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 22px;
+}
+.footer2{
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.flag{
+    margin-left: 40px;
+}
+.flag1 img{
+    margin-left: 10px;
+}
+.flag2 img{
+    margin-left: 20px;
+}
+.flag3{
+    margin-right: 40px;
+}
+.p9{
+    color: #454545;
+    width: 20px;
+}
+.p0{
+    margin-left: 10px;
+    margin-top: 5px;
+    display: flex;
+}
+.flag1{
+    display: flex;
+}
+.btn{
+    margin-left: 25%;
+    margin-top: 50px;
+    width: 500px;
+    height: 40px;
+    border:  1px solid rgb(0, 179, 225);
+    color: rgb(0, 179, 225);
+}
+.footer1{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+.ft1{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+}
+.ft1 p{
+    color: rgb(14, 14, 107);
+}
+.ft1 a{
+    color: rgb(14, 14, 107);
+}
+.ft2{
+    margin-left: 60px;
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+}
+.ft2 p{
+    color: rgb(14, 14, 107);
+}
+.ft2 a{
+    color: rgb(14, 14, 107);
+}
+.ft3{
+    display: flex;
+}
+.divx{
+    margin-left: 15px;
+    margin-top: 15px;
+    line-height: 0;
+    display: flex;
+    flex-direction: column;
+}
+.para0{
+    color: orangered;
+}
+.paragraph0{
+ color: rgb(14, 14, 107);
+}
+.image-footer{
+    height: 35px;
+    width: 60px;
+}
+.img1{
+    display: flex;
+}
+.img2{
+    margin-top: 20px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.p1{
+    color: rgb(255, 168, 19);
+}
